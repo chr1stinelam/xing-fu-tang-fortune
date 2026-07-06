@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif-tc: "Noto Serif TC", "PMingLiU", serif;
+  --font-brush: "ZCOOL XiaoWei", "Noto Serif TC", serif;
+
+  --color-lacquer: #141110;
+  --color-lacquer-light: #241f1c;
+  --color-wood-light: #d9a05b;
+  --color-wood: #b97a3d;
+  --color-wood-dark: #7a4a1f;
+  --color-wood-darker: #5c3517;
+  --color-stick-red: #a91f1f;
+  --color-stick-red-dark: #7a1414;
+  --color-temple-red: #b5241a;
+  --color-temple-red-dark: #8c1c14;
+  --color-gold: #d8b662;
+  --color-gold-light: #f0dfa8;
+  --color-cream: #f3e8d4;
+  --color-cream-dark: #e8d9ba;
+}
+
+:root {
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-serif-tc);
+  background: var(--color-cream);
+  -webkit-font-smoothing: antialiased;
+}
+
+.bg-wood-grain {
+  background-image:
+    repeating-linear-gradient(
+      100deg,
+      rgba(255, 255, 255, 0.05) 0px,
+      rgba(255, 255, 255, 0.05) 1px,
+      transparent 1px,
+      transparent 6px
+    ),
+    linear-gradient(135deg, var(--color-wood-light), var(--color-wood) 40%, var(--color-wood-dark) 100%);
+}
+
+.bg-lacquer {
+  background-image:
+    radial-gradient(ellipse at 30% 0%, rgba(255, 255, 255, 0.08), transparent 60%),
+    linear-gradient(180deg, var(--color-lacquer-light), var(--color-lacquer) 60%);
+}
+
+.text-stroke-gold {
+  color: var(--color-gold-light);
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
