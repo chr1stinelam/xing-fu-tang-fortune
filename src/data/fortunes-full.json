@@ -1,3002 +1,802 @@
 {
   "1": {
     "number": 1,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
-    "category": "relationship",
-    "englishFortune": "A new connection this season will surprise you in a good way.",
-    "chinesePoem": "梅開二度傲霜雪\n堅忍不拔志更堅\n莫因一時風霜苦\n他日必定見花妍",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Bad Luck",
+    "luckLevelZh": "下籤",
+    "category": "advice",
+    "englishFortune": "You've been ignoring signs that you need rest. Slow down before you burn out.",
+    "chinesePoem": "身心疲憊已多時\n莫再硬撐傷元氣\n及時歇息養精神\n方能長久走下去"
   },
   "2": {
     "number": 2,
-    "luckLevel": "Good Luck",
-    "luckLevelZh": "上籤",
-    "category": "general",
-    "englishFortune": "A long-standing worry resolves itself with less drama than you feared.",
-    "chinesePoem": "風雨過後見彩虹\n莫愁眼前路難通\n心中若有堅定志\n終見雲開日正中",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Cautious Luck",
+    "luckLevelZh": "中下籤",
+    "category": "funny",
+    "englishFortune": "You'll laugh at something unexpected today. Stay open to it.",
+    "chinesePoem": "今日忽逢趣事來\n莫將心事鎖眉間\n一笑之間解千愁\n且將歡喜掛心懷"
   },
   "3": {
     "number": 3,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
-    "category": "career",
-    "englishFortune": "A decision is coming. Sleep on it before you answer.",
-    "chinesePoem": "燕子歸來尋舊壘\n物是人非事已休\n莫將往事重提起\n新枝發芽在枝頭",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
+    "category": "general",
+    "englishFortune": "Be mindful of your diet these days. A little more balance goes a long way.",
+    "chinesePoem": "近日飲食宜留意\n均衡有度益身心\n莫因貪嘴傷脾胃\n細水長流保安寧"
   },
   "4": {
     "number": 4,
-    "luckLevel": "Average Luck",
-    "luckLevelZh": "中籤",
-    "category": "career",
-    "englishFortune": "A mentor's advice will matter more than you expect this month.",
-    "chinesePoem": "水滴石穿非一日\n繩鋸木斷貴堅持\n莫因眼前難見效\n終有所成慰己心",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
-  },
-  "5": {
-    "number": 5,
-    "luckLevel": "Excellent Luck",
-    "luckLevelZh": "極上籤",
-    "category": "relationship",
-    "englishFortune": "A relationship you've invested in is about to pay you back.",
-    "chinesePoem": "三思而後行必成\n莫因急躁誤前程\n若能沉心細思量\n事事順遂自安寧",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
-  },
-  "6": {
-    "number": 6,
-    "luckLevel": "Average Luck",
-    "luckLevelZh": "中籤",
-    "category": "relationship",
-    "englishFortune": "Something needs an honest conversation, not another vague text.",
-    "chinesePoem": "落花有意隨流水\n流水無情戀落花\n莫將此情空自誤\n他日相逢是天涯",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
-  },
-  "7": {
-    "number": 7,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
-    "category": "relationship",
-    "englishFortune": "Someone close is thinking of you right now. Reach out first.",
-    "chinesePoem": "一帆風順過重洋\n莫問前程路短長\n心中有數行有度\n自然財喜兩相當",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
-  },
-  "8": {
-    "number": 8,
     "luckLevel": "Good Luck",
     "luckLevelZh": "上籤",
     "category": "general",
-    "englishFortune": "Family harmony is strong right now. Plan the gathering you've been putting off.",
-    "chinesePoem": "心誠所至金石開\n事在人為莫等待\n若問前程何處是\n腳踏實地自然來",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "englishFortune": "Family harmony is strong right now. This is a good time to bring everyone together.",
+    "chinesePoem": "家庭和睦正當時\n宜聚親人敘舊情\n團圓時刻多珍惜\n福氣滿堂樂融融"
+  },
+  "5": {
+    "number": 5,
+    "luckLevel": "Bad Luck",
+    "luckLevelZh": "下籤",
+    "category": "advice",
+    "englishFortune": "Something you're holding onto is holding you back. It may be time to let go.",
+    "chinesePoem": "心中執念放不下\n反被此念所拖累\n不如放手向前看\n輕裝上陣路更寬"
+  },
+  "6": {
+    "number": 6,
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "relationship",
+    "englishFortune": "Someone close to you is thinking of you right now. Reach out first.",
+    "chinesePoem": "心上之人正念你\n莫再等待先開口\n一句問候暖人心\n情緣自此更深厚"
+  },
+  "7": {
+    "number": 7,
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
+    "category": "relationship",
+    "englishFortune": "Someone may have feelings for you, but the timing isn't right yet. Be patient.",
+    "chinesePoem": "有人心意藏未顯\n時機未到且莫急\n耐心等待緣分至\n水到渠成自分明"
+  },
+  "8": {
+    "number": 8,
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
+    "category": "advice",
+    "englishFortune": "Trust your gut on this one, even if it's inconvenient right now.",
+    "chinesePoem": "心中直覺莫忽視\n縱然不便亦當從\n莫因方便違本心\n順從直覺路自通"
   },
   "9": {
     "number": 9,
     "luckLevel": "Good Luck",
     "luckLevelZh": "上籤",
-    "category": "relationship",
-    "englishFortune": "A relationship you've invested in is about to pay you back.",
-    "chinesePoem": "一朝春盡紅顏老\n花落人亡兩不知\n莫將此事縈心上\n且看來日又逢時",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "category": "career",
+    "englishFortune": "The opportunity you want is closer than it looks. Keep putting in the effort.",
+    "chinesePoem": "所求機會近在前\n莫因未見而灰心\n持續努力終可得\n水到渠成自天成"
   },
   "10": {
     "number": 10,
-    "luckLevel": "Good Luck",
-    "luckLevelZh": "上籤",
-    "category": "career",
-    "englishFortune": "A new door is opening. Don't be afraid to walk through it.",
-    "chinesePoem": "竹林深處有人家\n莫道此地無繁華\n靜待時機緣自到\n他日枝頭綻奇花",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
-  },
-  "11": {
-    "number": 11,
-    "luckLevel": "Average Luck",
-    "luckLevelZh": "中籤",
-    "category": "general",
-    "englishFortune": "An old friend may reach out. Answer, even if you're busy.",
-    "chinesePoem": "寶劍鋒從磨礪出\n梅花香自苦寒來\n莫因一時難成事\n他日必定展宏才",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
-  },
-  "12": {
-    "number": 12,
     "luckLevel": "Average Middle Luck",
     "luckLevelZh": "中平籤",
     "category": "relationship",
-    "englishFortune": "Your heart wants an answer your head isn't ready to hear.",
-    "chinesePoem": "曲徑通幽處\n禪房花木深\n莫道前路無知己\n自有同心共此行",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "englishFortune": "A relationship needs an honest conversation, not more guessing.",
+    "chinesePoem": "情中疑惑莫再猜\n坦誠相待解心懷\n莫將心事藏心底\n直言方能見真心"
+  },
+  "11": {
+    "number": 11,
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "career",
+    "englishFortune": "Your hard work is about to be noticed by the right person. Stay the course.",
+    "chinesePoem": "辛勞終將被看見\n貴人自有賞識時\n莫因未見先氣餒\n堅持到底必有為"
+  },
+  "12": {
+    "number": 12,
+    "luckLevel": "Great Luck",
+    "luckLevelZh": "上上籤",
+    "category": "funny",
+    "englishFortune": "Good humor follows you today. People will enjoy your company.",
+    "chinesePoem": "今日幽默伴身旁\n談笑風生人歡喜\n處處逢人皆結緣\n心情愉悅樂無窮"
   },
   "13": {
     "number": 13,
-    "luckLevel": "Great Bad Luck",
-    "luckLevelZh": "下下籤",
-    "category": "general",
-    "englishFortune": "Health-wise, you've been ignoring something small. Don't ignore it longer.",
-    "chinesePoem": "人閒桂花落\n夜靜春山空\n莫將心事付流水\n自有清風解憂容",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "宜靜觀其變，不宜強求"
-      },
-      {
-        "question": "事業",
-        "answer": "暫緩行動，時機未到"
-      },
-      {
-        "question": "財運",
-        "answer": "謹慎理財，避免大筆支出"
-      },
-      {
-        "question": "健康",
-        "answer": "多加休息，勿過度勳勞"
-      },
-      {
-        "question": "出行",
-        "answer": "近期不宜遠行，多加小心"
-      }
-    ]
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
+    "category": "relationship",
+    "englishFortune": "Someone from your past may come back into your thoughts. Consider carefully before acting.",
+    "chinesePoem": "舊人舊事上心頭\n莫因一時亂了求\n三思而後再決定\n免得重蹈覆轍愁"
   },
   "14": {
     "number": 14,
     "luckLevel": "Excellent Luck",
     "luckLevelZh": "極上籤",
-    "category": "general",
-    "englishFortune": "A trip planned now will go smoother than expected.",
-    "chinesePoem": "莫道此路多坎坷\n堅持行去見坦途\n心中若有一盞燈\n黑夜終將見曙光",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "category": "advice",
+    "englishFortune": "Your instincts are sharp right now. Trust them and act accordingly.",
+    "chinesePoem": "此時直覺甚敏銳\n大膽依從莫遲疑\n所感所想皆有理\n順勢而為必得宜"
   },
   "15": {
     "number": 15,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
-    "category": "career",
-    "englishFortune": "A decision is coming. Sleep on it before you answer.",
-    "chinesePoem": "人生如棋局局新\n莫將輸贏掛在心\n且看眼前一步棋\n步步為營自安穩",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
+    "category": "general",
+    "englishFortune": "Double-check important documents or plans this week before finalizing.",
+    "chinesePoem": "近日文件宜細查\n莫因疏忽留隱患\n再三確認方放心\n免得事後費周折"
   },
   "16": {
     "number": 16,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
-    "category": "career",
-    "englishFortune": "A bold career move made now will pay off within the year.",
-    "chinesePoem": "莫言此事無轉機\n山窮水盡疑無路\n柳暗花明又一村\n峰迴路轉見生機",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "general",
+    "englishFortune": "A trip planned now will go more smoothly than you expect.",
+    "chinesePoem": "此時出行正順利\n所行之路皆坦途\n莫因擔憂多顧慮\n一路平安樂悠悠"
   },
   "17": {
     "number": 17,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
-    "category": "funny",
-    "englishFortune": "You will finally beat that level, win that argument, or land that parking spot.",
-    "chinesePoem": "花開花謝總有時\n莫嘆春光去不遲\n且待來年新雨露\n枝頭依舊綻紅枝",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
+    "category": "relationship",
+    "englishFortune": "Your feelings are ahead of the situation right now. Give it more time before deciding.",
+    "chinesePoem": "情深已在事之先\n莫急下定論斷言\n且待時機成熟後\n自然明朗見真言"
   },
   "18": {
     "number": 18,
-    "luckLevel": "Good Luck",
-    "luckLevelZh": "上籤",
-    "category": "funny",
-    "englishFortune": "Someone is about to hype you up without you even asking.",
-    "chinesePoem": "魚躍龍門非偶然\n十年寒窗磨一劍\n今朝得展凌雲志\n莫負平生所學全",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
+    "category": "general",
+    "englishFortune": "An old friend may reach out. Take the time to answer, even if you're busy.",
+    "chinesePoem": "故人將有消息來\n再忙也宜抽空應\n莫因忙碌而錯過\n情誼難得須珍惜"
   },
   "19": {
     "number": 19,
     "luckLevel": "Average Luck",
     "luckLevelZh": "中籤",
-    "category": "advice",
-    "englishFortune": "A small habit changed today will matter more than you think in a year.",
-    "chinesePoem": "江水東流不復回\n莫將舊事苦相隨\n且看前方新氣象\n自有貴人相扶持",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "category": "relationship",
+    "englishFortune": "A relationship in your life is at a turning point. Which way it goes depends on you.",
+    "chinesePoem": "情緣此刻在轉折\n何去何從在自己\n莫將決定推予人\n心之所向是答案"
   },
   "20": {
     "number": 20,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
-    "category": "relationship",
-    "englishFortune": "Something needs an honest conversation, not another vague text.",
-    "chinesePoem": "雲開霧散見青天\n往事如煙莫再牽\n且把心頭愁緒放\n前程自有好姻緣",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "general",
+    "englishFortune": "Your health and energy are on the rise. Keep up whatever you've been doing.",
+    "chinesePoem": "身心狀態漸向好\n精神飽滿氣色佳\n持續保養莫鬆懈\n長久安康樂無涯"
   },
   "21": {
     "number": 21,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
-    "category": "relationship",
-    "englishFortune": "A relationship you've invested in is about to pay you back.",
-    "chinesePoem": "望穿秋水盼歸期\n莫道相思無盡時\n心若堅定情不變\n終有團圓笑語時",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
+    "category": "career",
+    "englishFortune": "A work decision is coming. Take time to think it through before answering.",
+    "chinesePoem": "職場抉擇將來臨\n莫急應答緩緩行\n靜心思量利與弊\n三思而後定分明"
   },
   "22": {
     "number": 22,
-    "luckLevel": "Average Luck",
-    "luckLevelZh": "中籤",
-    "category": "general",
-    "englishFortune": "Be cautious of your diet. More vegetables is always a good idea.",
-    "chinesePoem": "心若向陽花自開\n何須煩惱掛心懷\n莫將煩憂留今日\n明朝依舊豔陽來",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
-  },
-  "23": {
-    "number": 23,
-    "luckLevel": "Cautious Luck",
-    "luckLevelZh": "中下籤",
-    "category": "funny",
-    "englishFortune": "Your phone battery will hit 1% at the worst possible moment.",
-    "chinesePoem": "寒盡不知春已到\n枝頭鵲喜報春曉\n舊愁未解新愁至\n且將心事付明朝",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
-  },
-  "24": {
-    "number": 24,
     "luckLevel": "Great Luck",
     "luckLevelZh": "上上籤",
     "category": "career",
     "englishFortune": "A bold career move made now will pay off within the year.",
-    "chinesePoem": "莫道桑榆晚景遲\n為霞尚滿天邊時\n人生何懼歲月老\n心境常青自有為",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "chinesePoem": "此時勇敢邁一步\n年內必見好收穫\n莫因猶豫錯良機\n當斷則斷莫蹉跎"
+  },
+  "23": {
+    "number": 23,
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
+    "category": "relationship",
+    "englishFortune": "You may be reading too much into small signals. Ask instead of assuming.",
+    "chinesePoem": "小小訊號莫多想\n猜測不如直接問\n莫因揣測傷了情\n坦白之後心更安"
+  },
+  "24": {
+    "number": 24,
+    "luckLevel": "Cautious Luck",
+    "luckLevelZh": "中下籤",
+    "category": "advice",
+    "englishFortune": "A small change in habit today will matter more than you expect down the road.",
+    "chinesePoem": "今日小小改變起\n他日方知意義深\n莫小看這點滴功\n積少成多終有成"
   },
   "25": {
     "number": 25,
-    "luckLevel": "Average Luck",
-    "luckLevelZh": "中籤",
-    "category": "advice",
-    "englishFortune": "A small habit changed today will matter more than you think in a year.",
-    "chinesePoem": "山重水複疑無路\n柳暗花明又一村\n莫道此番多阻礙\n轉眼已是艷陽天",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
+    "category": "general",
+    "englishFortune": "Something you thought was lost will turn up in an unexpected place.",
+    "chinesePoem": "遺失之物將尋回\n出於意料之地方\n莫因遍尋不著急\n耐心等待自然現"
   },
   "26": {
     "number": 26,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
-    "category": "general",
-    "englishFortune": "Family harmony is strong right now. Plan the gathering you've been putting off.",
-    "chinesePoem": "莫道秋來蕭瑟晚\n且待冬去暖風還\n人生自有低潮處\n潮起潮落總循環",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
+    "category": "advice",
+    "englishFortune": "Say the thing you've been avoiding saying. It will feel lighter once it's said.",
+    "chinesePoem": "心中話語莫再藏\n說出之後心自輕\n莫因顧慮拖延久\n直言坦誠是良方"
   },
   "27": {
     "number": 27,
-    "luckLevel": "Bad Luck",
-    "luckLevelZh": "下籤",
+    "luckLevel": "Cautious Luck",
+    "luckLevelZh": "中下籤",
     "category": "funny",
-    "englishFortune": "You will confidently walk into a door today.",
-    "chinesePoem": "春蠶到死絲方盡\n蠟炬成灰淚始乾\n莫因辛勞心生怨\n付出終有回報還",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "宜靜觀其變，不宜強求"
-      },
-      {
-        "question": "事業",
-        "answer": "暫緩行動，時機未到"
-      },
-      {
-        "question": "財運",
-        "answer": "謹慎理財，避免大筆支出"
-      },
-      {
-        "question": "健康",
-        "answer": "多加休息，勿過度勳勞"
-      },
-      {
-        "question": "出行",
-        "answer": "近期不宜遠行，多加小心"
-      }
-    ]
+    "englishFortune": "A funny mix-up will happen today, but it works out fine in the end.",
+    "chinesePoem": "今日烏龍鬧一場\n看似麻煩實無妨\n笑談之間皆化解\n事後回想亦尋常"
   },
   "28": {
     "number": 28,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
-    "category": "advice",
-    "englishFortune": "You are exactly where you need to be, even if it doesn't feel like it.",
-    "chinesePoem": "風平浪靜好行舟\n心安理得事無憂\n莫將閒事縈懷抱\n自有清風送到頭",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
+    "category": "career",
+    "englishFortune": "Someone at work isn't being fully straightforward with you. Watch and wait.",
+    "chinesePoem": "同事言語有保留\n莫輕信之細觀察\n靜待時機看分明\n自有真相顯現時"
   },
   "29": {
     "number": 29,
-    "luckLevel": "Good Luck",
-    "luckLevelZh": "上籤",
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
     "category": "relationship",
-    "englishFortune": "A new connection this season will surprise you in a good way.",
-    "chinesePoem": "月缺終須有月圓\n人生起伏似江川\n莫愁眼前風浪急\n渡過險灘是坦然",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "englishFortune": "This connection is still forming. Don't rush to define it just yet.",
+    "chinesePoem": "此段情緣尚未定\n莫急於一時下論\n順其自然多相處\n時機到時自分明"
   },
   "30": {
     "number": 30,
     "luckLevel": "Good Luck",
     "luckLevelZh": "上籤",
-    "category": "relationship",
-    "englishFortune": "A relationship you've invested in is about to pay you back.",
-    "chinesePoem": "雁過留聲人過名\n莫將此事掛心頭\n且行且珍惜眼前\n自有福報在後頭",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "category": "general",
+    "englishFortune": "Good news may come from somewhere far away. Stay open to it.",
+    "chinesePoem": "遠方佳音將傳來\n意外之喜莫錯過\n敞開心懷迎消息\n福自遠方降臨時"
   },
   "31": {
     "number": 31,
-    "luckLevel": "Cautious Luck",
-    "luckLevelZh": "中下籤",
-    "category": "general",
-    "englishFortune": "This week rewards quiet effort over loud plans.",
-    "chinesePoem": "梅開二度傲霜雪\n堅忍不拔志更堅\n莫因一時風霜苦\n他日必定見花妍",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Excellent Luck",
+    "luckLevelZh": "極上籤",
+    "category": "funny",
+    "englishFortune": "Something will go better than expected today, in a way that makes you smile.",
+    "chinesePoem": "今日事事超所望\n意外之喜掛心頭\n莫問緣由笑納之\n福氣自來樂悠悠"
   },
   "32": {
     "number": 32,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
-    "category": "funny",
-    "englishFortune": "The next stranger you meet will make you laugh unexpectedly.",
-    "chinesePoem": "風雨過後見彩虹\n莫愁眼前路難通\n心中若有堅定志\n終見雲開日正中",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "general",
+    "englishFortune": "This is a lucky stretch for small risks. A little courage now goes far.",
+    "chinesePoem": "此時運勢宜小搏\n小小冒險皆可行\n勇敢一試莫猶豫\n福運眷顧膽大人"
   },
   "33": {
     "number": 33,
-    "luckLevel": "Excellent Luck",
-    "luckLevelZh": "極上籤",
-    "category": "relationship",
-    "englishFortune": "A relationship you've invested in is about to pay you back.",
-    "chinesePoem": "燕子歸來尋舊壘\n物是人非事已休\n莫將往事重提起\n新枝發芽在枝頭",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
+    "category": "career",
+    "englishFortune": "An opportunity looks bigger than it is. Ask more questions before committing.",
+    "chinesePoem": "眼前機會看似大\n莫急應允需細查\n多加詢問明底細\n免得日後空歡喜"
   },
   "34": {
     "number": 34,
-    "luckLevel": "Good Luck",
-    "luckLevelZh": "上籤",
-    "category": "career",
-    "englishFortune": "A new door is opening. Don't be afraid to walk through it.",
-    "chinesePoem": "水滴石穿非一日\n繩鋸木斷貴堅持\n莫因眼前難見效\n終有所成慰己心",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
+    "category": "general",
+    "englishFortune": "Your routine needs a small adjustment. Listen to what your body's been telling you.",
+    "chinesePoem": "日常作息宜調整\n身體訊號早已現\n莫再忽視多留意\n及早調養保安康"
   },
   "35": {
     "number": 35,
-    "luckLevel": "Average Luck",
-    "luckLevelZh": "中籤",
-    "category": "career",
-    "englishFortune": "This opportunity looks bigger than it is. Ask more questions.",
-    "chinesePoem": "三思而後行必成\n莫因急躁誤前程\n若能沉心細思量\n事事順遂自安寧",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Bad Luck",
+    "luckLevelZh": "下籤",
+    "category": "advice",
+    "englishFortune": "You are being too hard on yourself right now. Ease up a little.",
+    "chinesePoem": "對己苛責已太過\n莫再自責傷心神\n凡事寬容待自己\n方能輕鬆過此關"
   },
   "36": {
     "number": 36,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
+    "luckLevel": "Cautious Luck",
+    "luckLevelZh": "中下籤",
     "category": "advice",
-    "englishFortune": "Say the thing you've been avoiding saying.",
-    "chinesePoem": "落花有意隨流水\n流水無情戀落花\n莫將此情空自誤\n他日相逢是天涯",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "englishFortune": "You don't need to decide everything today. Give it one more day.",
+    "chinesePoem": "今日不必急定案\n再留一日想周全\n莫因心急誤大事\n從容應對自安然"
   },
   "37": {
     "number": 37,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
     "category": "relationship",
-    "englishFortune": "Something needs an honest conversation, not another vague text.",
-    "chinesePoem": "一帆風順過重洋\n莫問前程路短長\n心中有數行有度\n自然財喜兩相當",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "englishFortune": "A meaningful new connection is coming this season. Stay open to it.",
+    "chinesePoem": "佳緣將至莫錯過\n敞開心懷迎新知\n此番相遇非偶然\n情緣天定自相隨"
   },
   "38": {
     "number": 38,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
-    "category": "general",
-    "englishFortune": "A document, ID, or reservation needs double-checking this week.",
-    "chinesePoem": "心誠所至金石開\n事在人為莫等待\n若問前程何處是\n腳踏實地自然來",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Great Bad Luck",
+    "luckLevelZh": "下下籤",
+    "category": "relationship",
+    "englishFortune": "The one you love does not feel the same way. It's time to let go and look ahead.",
+    "chinesePoem": "所愛之人心不同\n莫再苦戀空自傷\n且將此情輕輕放\n新緣自在前方藏"
   },
   "39": {
     "number": 39,
-    "luckLevel": "Average Luck",
-    "luckLevelZh": "中籤",
+    "luckLevel": "Great Luck",
+    "luckLevelZh": "上上籤",
     "category": "career",
-    "englishFortune": "This opportunity looks bigger than it is. Ask more questions.",
-    "chinesePoem": "一朝春盡紅顏老\n花落人亡兩不知\n莫將此事縈心上\n且看來日又逢時",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "englishFortune": "This is a good season to ask for what you want at work. Go for it.",
+    "chinesePoem": "此時正是求索日\n大膽開口莫遲疑\n所求之事皆可成\n把握良機在今時"
   },
   "40": {
     "number": 40,
-    "luckLevel": "Great Bad Luck",
-    "luckLevelZh": "下下籤",
-    "category": "career",
-    "englishFortune": "Office politics will test your patience. Don't take the bait.",
-    "chinesePoem": "竹林深處有人家\n莫道此地無繁華\n靜待時機緣自到\n他日枝頭綻奇花",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "宜靜觀其變，不宜強求"
-      },
-      {
-        "question": "事業",
-        "answer": "暫緩行動，時機未到"
-      },
-      {
-        "question": "財運",
-        "answer": "謹慎理財，避免大筆支出"
-      },
-      {
-        "question": "健康",
-        "answer": "多加休息，勿過度勳勞"
-      },
-      {
-        "question": "出行",
-        "answer": "近期不宜遠行，多加小心"
-      }
-    ]
+    "luckLevel": "Cautious Luck",
+    "luckLevelZh": "中下籤",
+    "category": "general",
+    "englishFortune": "A plan you've made will need one small change before it works. Stay flexible.",
+    "chinesePoem": "計畫之中需微調\n方能順利得推行\n莫因固執誤大事\n靈活應變是良方"
   },
   "41": {
     "number": 41,
     "luckLevel": "Average Luck",
     "luckLevelZh": "中籤",
-    "category": "relationship",
-    "englishFortune": "Mixed signals today. Ask directly instead of guessing.",
-    "chinesePoem": "寶劍鋒從磨礪出\n梅花香自苦寒來\n莫因一時難成事\n他日必定展宏才",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "category": "funny",
+    "englishFortune": "Expect a small surprise today, the kind that makes a good story later.",
+    "chinesePoem": "今日小有意外事\n過後方知是趣談\n莫因一時心慌亂\n事後回味笑開顏"
   },
   "42": {
     "number": 42,
-    "luckLevel": "Great Bad Luck",
-    "luckLevelZh": "下下籤",
-    "category": "relationship",
-    "englishFortune": "This is closure, even if it doesn't feel like it yet.",
-    "chinesePoem": "曲徑通幽處\n禪房花木深\n莫道前路無知己\n自有同心共此行",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "宜靜觀其變，不宜強求"
-      },
-      {
-        "question": "事業",
-        "answer": "暫緩行動，時機未到"
-      },
-      {
-        "question": "財運",
-        "answer": "謹慎理財，避免大筆支出"
-      },
-      {
-        "question": "健康",
-        "answer": "多加休息，勿過度勳勞"
-      },
-      {
-        "question": "出行",
-        "answer": "近期不宜遠行，多加小心"
-      }
-    ]
+    "luckLevel": "Cautious Luck",
+    "luckLevelZh": "中下籤",
+    "category": "career",
+    "englishFortune": "You're close to a breakthrough at work, but not quite there. Keep at it.",
+    "chinesePoem": "功成之日將將近\n莫因將至先放鬆\n再加一分堅持力\n終見成果在眼前"
   },
   "43": {
     "number": 43,
-    "luckLevel": "Good Luck",
-    "luckLevelZh": "上籤",
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
     "category": "general",
-    "englishFortune": "A trip planned now will go smoother than expected.",
-    "chinesePoem": "人閒桂花落\n夜靜春山空\n莫將心事付流水\n自有清風解憂容",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "englishFortune": "News, big or small, is coming your way this week. Prepare to respond calmly.",
+    "chinesePoem": "近日消息將傳來\n無論大小需冷靜\n莫因驚訝亂了神\n沉著應對自安然"
   },
   "44": {
     "number": 44,
-    "luckLevel": "Bad Luck",
-    "luckLevelZh": "下籤",
-    "category": "career",
-    "englishFortune": "This is not the year to ask for a raise. Build the case first.",
-    "chinesePoem": "莫道此路多坎坷\n堅持行去見坦途\n心中若有一盞燈\n黑夜終將見曙光",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "宜靜觀其變，不宜強求"
-      },
-      {
-        "question": "事業",
-        "answer": "暫緩行動，時機未到"
-      },
-      {
-        "question": "財運",
-        "answer": "謹慎理財，避免大筆支出"
-      },
-      {
-        "question": "健康",
-        "answer": "多加休息，勿過度勳勞"
-      },
-      {
-        "question": "出行",
-        "answer": "近期不宜遠行，多加小心"
-      }
-    ]
-  },
-  "45": {
-    "number": 45,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
-    "category": "general",
-    "englishFortune": "Family harmony is strong right now. Plan the gathering you've been putting off.",
-    "chinesePoem": "人生如棋局局新\n莫將輸贏掛在心\n且看眼前一步棋\n步步為營自安穩",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
-  },
-  "46": {
-    "number": 46,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
-    "category": "career",
-    "englishFortune": "This opportunity looks bigger than it is. Ask more questions.",
-    "chinesePoem": "莫言此事無轉機\n山窮水盡疑無路\n柳暗花明又一村\n峰迴路轉見生機",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
-  },
-  "47": {
-    "number": 47,
     "luckLevel": "Good Luck",
     "luckLevelZh": "上籤",
     "category": "funny",
-    "englishFortune": "Someone is about to hype you up without you even asking.",
-    "chinesePoem": "花開花謝總有時\n莫嘆春光去不遲\n且待來年新雨露\n枝頭依舊綻紅枝",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "englishFortune": "Luck favors you in small, silly ways today. Enjoy it without overthinking.",
+    "chinesePoem": "今日小福常相伴\n事事順遂心自寬\n莫將好運多思量\n且享眼前歡樂天"
+  },
+  "45": {
+    "number": 45,
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
+    "category": "relationship",
+    "englishFortune": "Someone in your life needs more patience from you right now.",
+    "chinesePoem": "身邊之人待你耐\n莫因心急失了情\n多加體諒多包容\n情緣方能長久行"
+  },
+  "46": {
+    "number": 46,
+    "luckLevel": "Cautious Luck",
+    "luckLevelZh": "中下籤",
+    "category": "advice",
+    "englishFortune": "You already know the answer. You're just waiting for permission to act on it.",
+    "chinesePoem": "答案早已在心中\n只欠一份行動勇\n莫再等待他人準\n自己便是那定奪"
+  },
+  "47": {
+    "number": 47,
+    "luckLevel": "Great Luck",
+    "luckLevelZh": "上上籤",
+    "category": "advice",
+    "englishFortune": "This is a good time to start something you've been putting off.",
+    "chinesePoem": "此時正宜起而行\n莫再拖延蹉跎日\n所想之事今日始\n他日回望慶今時"
   },
   "48": {
     "number": 48,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
+    "luckLevel": "Excellent Luck",
+    "luckLevelZh": "極上籤",
     "category": "advice",
-    "englishFortune": "The answer you're looking for is already inside the question.",
-    "chinesePoem": "魚躍龍門非偶然\n十年寒窗磨一劍\n今朝得展凌雲志\n莫負平生所學全",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "englishFortune": "The patience you've practiced is about to be rewarded.",
+    "chinesePoem": "耐心修煉終有報\n所待之事將成真\n莫因等待生疑慮\n福報自來慰苦心"
   },
   "49": {
     "number": 49,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
-    "category": "general",
-    "englishFortune": "A document, ID, or reservation needs double-checking this week.",
-    "chinesePoem": "江水東流不復回\n莫將舊事苦相隨\n且看前方新氣象\n自有貴人相扶持",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "relationship",
+    "englishFortune": "The person you've been patient for is worth the wait. Good things are coming.",
+    "chinesePoem": "耐心等待終有報\n所盼之人值得候\n莫因等待生怨懟\n花開結果在後頭"
   },
   "50": {
     "number": 50,
     "luckLevel": "Good Luck",
     "luckLevelZh": "上籤",
     "category": "relationship",
-    "englishFortune": "The right person is worth the wait you've already put in.",
-    "chinesePoem": "雲開霧散見青天\n往事如煙莫再牽\n且把心頭愁緒放\n前程自有好姻緣",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "englishFortune": "This is a good time to say how you feel. Courage now will be rewarded.",
+    "chinesePoem": "此時直言正當時\n莫再猶豫藏心事\n勇敢說出心中意\n情緣自此結良時"
   },
   "51": {
     "number": 51,
-    "luckLevel": "Average Luck",
-    "luckLevelZh": "中籤",
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
     "category": "funny",
-    "englishFortune": "You will almost text your ex. Almost.",
-    "chinesePoem": "望穿秋水盼歸期\n莫道相思無盡時\n心若堅定情不變\n終有團圓笑語時",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "englishFortune": "Today will feel a little chaotic, but harmless. Just go with it.",
+    "chinesePoem": "今日略顯忙亂象\n無傷大雅莫心慌\n順其自然隨遇安\n過後自覺是尋常"
   },
   "52": {
     "number": 52,
-    "luckLevel": "Good Luck",
-    "luckLevelZh": "上籤",
-    "category": "advice",
-    "englishFortune": "Patience you've been practicing is about to pay off.",
-    "chinesePoem": "心若向陽花自開\n何須煩惱掛心懷\n莫將煩憂留今日\n明朝依舊豔陽來",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
-  },
-  "53": {
-    "number": 53,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
-    "category": "career",
-    "englishFortune": "You are close to a breakthrough, but you're not there yet. Keep going.",
-    "chinesePoem": "寒盡不知春已到\n枝頭鵲喜報春曉\n舊愁未解新愁至\n且將心事付明朝",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
-  },
-  "54": {
-    "number": 54,
     "luckLevel": "Great Luck",
     "luckLevelZh": "上上籤",
     "category": "career",
-    "englishFortune": "The promotion, offer, or opportunity you want is closer than it looks.",
-    "chinesePoem": "莫道桑榆晚景遲\n為霞尚滿天邊時\n人生何懼歲月老\n心境常青自有為",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "englishFortune": "A skill you've been quietly building is about to become your biggest advantage.",
+    "chinesePoem": "默默磨練之技能\n將成日後最大優\n莫因無人知而棄\n終有一日展鋒芒"
   },
-  "55": {
-    "number": 55,
+  "53": {
+    "number": 53,
+    "luckLevel": "Excellent Luck",
+    "luckLevelZh": "極上籤",
+    "category": "advice",
+    "englishFortune": "You are exactly where you need to be, even if it doesn't feel that way.",
+    "chinesePoem": "此時此刻恰如是\n莫因心亂疑自身\n所行之路皆有意\n終見花開結果時"
+  },
+  "54": {
+    "number": 54,
     "luckLevel": "Good Luck",
     "luckLevelZh": "上籤",
     "category": "advice",
-    "englishFortune": "The version of you a year from now will thank you for what you do this week.",
-    "chinesePoem": "山重水複疑無路\n柳暗花明又一村\n莫道此番多阻礙\n轉眼已是艷陽天",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "englishFortune": "A period of steady effort is about to shift into a period of visible results.",
+    "chinesePoem": "積累多時將見效\n默默耕耘轉收穫\n莫因未見而心急\n成果不久便顯現"
+  },
+  "55": {
+    "number": 55,
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
+    "category": "career",
+    "englishFortune": "A change at work is coming, but it isn't clear yet if it's good or bad. Stay adaptable.",
+    "chinesePoem": "職場變動將發生\n吉凶未定且觀望\n保持靈活隨機應\n方能安然渡此關"
   },
   "56": {
     "number": 56,
-    "luckLevel": "Cautious Luck",
-    "luckLevelZh": "中下籤",
-    "category": "career",
-    "englishFortune": "You are close to a breakthrough, but you're not there yet. Keep going.",
-    "chinesePoem": "莫道秋來蕭瑟晚\n且待冬去暖風還\n人生自有低潮處\n潮起潮落總循環",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
+    "category": "funny",
+    "englishFortune": "You'll catch yourself overreacting to something small today. It's fine, it happens.",
+    "chinesePoem": "今日小事易反應\n過度緊張實無需\n莫因此事苛責己\n人人皆有此時候"
   },
   "57": {
     "number": 57,
-    "luckLevel": "Good Luck",
-    "luckLevelZh": "上籤",
-    "category": "general",
-    "englishFortune": "Family harmony is strong right now. Plan the gathering you've been putting off.",
-    "chinesePoem": "春蠶到死絲方盡\n蠟炬成灰淚始乾\n莫因辛勞心生怨\n付出終有回報還",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
+    "category": "relationship",
+    "englishFortune": "A conversation you've been avoiding with a partner or crush needs to happen soon.",
+    "chinesePoem": "該說之話莫再拖\n避而不談情難進\n鼓起勇氣坦然說\n方能明白彼此心"
   },
   "58": {
     "number": 58,
-    "luckLevel": "Average Luck",
-    "luckLevelZh": "中籤",
-    "category": "relationship",
-    "englishFortune": "Mixed signals today. Ask directly instead of guessing.",
-    "chinesePoem": "風平浪靜好行舟\n心安理得事無憂\n莫將閒事縈懷抱\n自有清風送到頭",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
+    "category": "career",
+    "englishFortune": "You're being pulled in two directions at work. Pick the one that fits your goals, not just the moment.",
+    "chinesePoem": "職場兩難需抉擇\n莫因眼前而迷失\n遠見方向為根本\n莫讓一時亂大計"
   },
   "59": {
     "number": 59,
     "luckLevel": "Average Middle Luck",
     "luckLevelZh": "中平籤",
-    "category": "advice",
-    "englishFortune": "A small habit changed today will matter more than you think in a year.",
-    "chinesePoem": "月缺終須有月圓\n人生起伏似江川\n莫愁眼前風浪急\n渡過險灘是坦然",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "category": "relationship",
+    "englishFortune": "Someone may have feelings for you, but the timing isn't right yet. Be patient.",
+    "chinesePoem": "有人心意藏未顯\n時機未到且莫急\n耐心等待緣分至\n水到渠成自分明"
   },
   "60": {
     "number": 60,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
-    "category": "advice",
-    "englishFortune": "Say the thing you've been avoiding saying.",
-    "chinesePoem": "雁過留聲人過名\n莫將此事掛心頭\n且行且珍惜眼前\n自有福報在後頭",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
+    "category": "funny",
+    "englishFortune": "Plans may shift last minute today. Roll with it, the new version works out fine.",
+    "chinesePoem": "今日計畫或有變\n莫因此事心生煩\n隨機應變自有法\n變中另有一番天"
   },
   "61": {
     "number": 61,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
-    "category": "funny",
-    "englishFortune": "You will almost text your ex. Almost.",
-    "chinesePoem": "梅開二度傲霜雪\n堅忍不拔志更堅\n莫因一時風霜苦\n他日必定見花妍",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Excellent Luck",
+    "luckLevelZh": "極上籤",
+    "category": "advice",
+    "englishFortune": "You're stronger than the version of you that started this. Keep going.",
+    "chinesePoem": "此刻之你已更強\n非復當初起步時\n莫因艱難而懷疑\n堅持向前終有成"
   },
   "62": {
     "number": 62,
     "luckLevel": "Average Middle Luck",
     "luckLevelZh": "中平籤",
-    "category": "funny",
-    "englishFortune": "A song will get stuck in your head for exactly three days.",
-    "chinesePoem": "風雨過後見彩虹\n莫愁眼前路難通\n心中若有堅定志\n終見雲開日正中",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "category": "career",
+    "englishFortune": "Progress at work is slower than you'd like, but it's still progress.",
+    "chinesePoem": "職場進展雖緩慢\n莫因此而生灰心\n積累終有厚積時\n穩紮穩打自向前"
   },
   "63": {
     "number": 63,
     "luckLevel": "Cautious Luck",
     "luckLevelZh": "中下籤",
-    "category": "career",
-    "englishFortune": "A mentor's advice will matter more than you expect this month.",
-    "chinesePoem": "燕子歸來尋舊壘\n物是人非事已休\n莫將往事重提起\n新枝發芽在枝頭",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "category": "funny",
+    "englishFortune": "You'll second-guess a small decision today. Either choice turns out okay.",
+    "chinesePoem": "今日小事猶豫多\n左右為難皆可行\n莫將此事看太重\n隨心而定亦無妨"
   },
   "64": {
     "number": 64,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
-    "category": "relationship",
-    "englishFortune": "Someone close is thinking of you right now. Reach out first.",
-    "chinesePoem": "水滴石穿非一日\n繩鋸木斷貴堅持\n莫因眼前難見效\n終有所成慰己心",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "general",
+    "englishFortune": "A financial matter you've been worried about will resolve better than expected.",
+    "chinesePoem": "財務憂心之事情\n結果將比預期好\n莫再擔憂添白髮\n寬心等待見分曉"
   },
   "65": {
     "number": 65,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
+    "luckLevel": "Cautious Luck",
+    "luckLevelZh": "中下籤",
     "category": "funny",
-    "englishFortune": "Someone is about to hype you up without you even asking.",
-    "chinesePoem": "三思而後行必成\n莫因急躁誤前程\n若能沉心細思量\n事事順遂自安寧",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "englishFortune": "A minor mistake today teaches a small lesson. Nothing to worry over.",
+    "chinesePoem": "今日小錯難避免\n權當一次小教訓\n莫因此事耿耿懷\n笑而改之便是了"
   },
   "66": {
     "number": 66,
-    "luckLevel": "Cautious Luck",
-    "luckLevelZh": "中下籤",
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
     "category": "advice",
-    "englishFortune": "You don't need to decide today. Give it one more day.",
-    "chinesePoem": "落花有意隨流水\n流水無情戀落花\n莫將此情空自誤\n他日相逢是天涯",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "englishFortune": "Something needs to end before something new can begin. Don't fear the ending.",
+    "chinesePoem": "舊事須了新事起\n莫懼結束心生慌\n了結之後方有始\n新局自在轉念間"
   },
   "67": {
     "number": 67,
     "luckLevel": "Average Middle Luck",
     "luckLevelZh": "中平籤",
-    "category": "general",
-    "englishFortune": "Something lost will be found in an unexpected place.",
-    "chinesePoem": "一帆風順過重洋\n莫問前程路短長\n心中有數行有度\n自然財喜兩相當",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "category": "relationship",
+    "englishFortune": "A relationship needs an honest conversation, not more guessing.",
+    "chinesePoem": "情中疑惑莫再猜\n坦誠相待解心懷\n莫將心事藏心底\n直言方能見真心"
   },
   "68": {
     "number": 68,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
-    "category": "advice",
-    "englishFortune": "This is a good time to start the thing you've been putting off.",
-    "chinesePoem": "心誠所至金石開\n事在人為莫等待\n若問前程何處是\n腳踏實地自然來",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Excellent Luck",
+    "luckLevelZh": "極上籤",
+    "category": "career",
+    "englishFortune": "Recognition at work is coming, even if it feels overdue.",
+    "chinesePoem": "職場認可將來到\n雖覺遲來莫心焦\n所付出者終有報\n實至名歸在今朝"
   },
   "69": {
     "number": 69,
-    "luckLevel": "Average Luck",
-    "luckLevelZh": "中籤",
-    "category": "general",
-    "englishFortune": "Something lost will be found in an unexpected place.",
-    "chinesePoem": "一朝春盡紅顏老\n花落人亡兩不知\n莫將此事縈心上\n且看來日又逢時",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "career",
+    "englishFortune": "A working relationship is about to become a valuable long-term connection.",
+    "chinesePoem": "職場之緣漸深厚\n將成長久之貴人\n莫因初識而輕視\n用心經營結良緣"
   },
   "70": {
     "number": 70,
-    "luckLevel": "Average Luck",
-    "luckLevelZh": "中籤",
+    "luckLevel": "Bad Luck",
+    "luckLevelZh": "下籤",
     "category": "funny",
-    "englishFortune": "You will say 'you too' when the waiter says 'enjoy your meal.'",
-    "chinesePoem": "竹林深處有人家\n莫道此地無繁華\n靜待時機緣自到\n他日枝頭綻奇花",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "englishFortune": "Today is not your day for decisions. Let someone else choose the restaurant.",
+    "chinesePoem": "今日諸事不宜斷\n莫強出頭作抉擇\n且讓他人先拿主意\n靜觀其變保平安"
   },
   "71": {
     "number": 71,
     "luckLevel": "Average Luck",
     "luckLevelZh": "中籤",
-    "category": "advice",
-    "englishFortune": "The answer you're looking for is already inside the question.",
-    "chinesePoem": "寶劍鋒從磨礪出\n梅花香自苦寒來\n莫因一時難成事\n他日必定展宏才",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "category": "funny",
+    "englishFortune": "You'll feel unusually indecisive today. It's just a mood, not a real problem.",
+    "chinesePoem": "今日心緒難定奪\n不過一時之情緒\n莫將此態當作實\n明日自然見分明"
   },
   "72": {
     "number": 72,
-    "luckLevel": "Good Luck",
-    "luckLevelZh": "上籤",
-    "category": "general",
-    "englishFortune": "Unexpected good news is on its way, possibly from far away.",
-    "chinesePoem": "曲徑通幽處\n禪房花木深\n莫道前路無知己\n自有同心共此行",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
+    "category": "funny",
+    "englishFortune": "Someone will misread your tone today. Clear it up before it becomes a bigger thing.",
+    "chinesePoem": "今日言語易被誤\n及時解釋免生波\n莫因懶得解釋清\n小誤會變大糾紛"
   },
   "73": {
     "number": 73,
-    "luckLevel": "Cautious Luck",
-    "luckLevelZh": "中下籤",
-    "category": "relationship",
-    "englishFortune": "A past connection may resurface. Think before you reply.",
-    "chinesePoem": "人閒桂花落\n夜靜春山空\n莫將心事付流水\n自有清風解憂容",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "career",
+    "englishFortune": "The opportunity you want is closer than it looks. Keep putting in the effort.",
+    "chinesePoem": "所求機會近在前\n莫因未見而灰心\n持續努力終可得\n水到渠成自天成"
   },
   "74": {
     "number": 74,
-    "luckLevel": "Average Luck",
-    "luckLevelZh": "中籤",
+    "luckLevel": "Excellent Luck",
+    "luckLevelZh": "極上籤",
     "category": "career",
-    "englishFortune": "A decision is coming. Sleep on it before you answer.",
-    "chinesePoem": "莫道此路多坎坷\n堅持行去見坦途\n心中若有一盞燈\n黑夜終將見曙光",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "englishFortune": "Your hard work is about to be noticed by the right person. Stay the course.",
+    "chinesePoem": "辛勞終將被看見\n貴人自有賞識時\n莫因未見先氣餒\n堅持到底必有為"
   },
   "75": {
     "number": 75,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
-    "category": "funny",
-    "englishFortune": "A song will get stuck in your head for exactly three days.",
-    "chinesePoem": "人生如棋局局新\n莫將輸贏掛在心\n且看眼前一步棋\n步步為營自安穩",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "advice",
+    "englishFortune": "The risk you're considering is worth taking. Prepare well and go for it.",
+    "chinesePoem": "此番冒險值得試\n準備充分放心行\n莫因恐懼而卻步\n勇者方能得所求"
   },
   "76": {
     "number": 76,
-    "luckLevel": "Bad Luck",
-    "luckLevelZh": "下籤",
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
     "category": "funny",
-    "englishFortune": "The thing you're overthinking? Yeah, they noticed. It's fine. It's not fine.",
-    "chinesePoem": "莫言此事無轉機\n山窮水盡疑無路\n柳暗花明又一村\n峰迴路轉見生機",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "宜靜觀其變，不宜強求"
-      },
-      {
-        "question": "事業",
-        "answer": "暫緩行動，時機未到"
-      },
-      {
-        "question": "財運",
-        "answer": "謹慎理財，避免大筆支出"
-      },
-      {
-        "question": "健康",
-        "answer": "多加休息，勿過度勳勞"
-      },
-      {
-        "question": "出行",
-        "answer": "近期不宜遠行，多加小心"
-      }
-    ]
+    "englishFortune": "You'll laugh at something unexpected today. Stay open to it.",
+    "chinesePoem": "今日忽逢趣事來\n莫將心事鎖眉間\n一笑之間解千愁\n且將歡喜掛心懷"
   },
   "77": {
     "number": 77,
-    "luckLevel": "Bad Luck",
-    "luckLevelZh": "下籤",
-    "category": "relationship",
-    "englishFortune": "The red flags were never actually pink. Believe what you saw.",
-    "chinesePoem": "花開花謝總有時\n莫嘆春光去不遲\n且待來年新雨露\n枝頭依舊綻紅枝",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "宜靜觀其變，不宜強求"
-      },
-      {
-        "question": "事業",
-        "answer": "暫緩行動，時機未到"
-      },
-      {
-        "question": "財運",
-        "answer": "謹慎理財，避免大筆支出"
-      },
-      {
-        "question": "健康",
-        "answer": "多加休息，勿過度勳勞"
-      },
-      {
-        "question": "出行",
-        "answer": "近期不宜遠行，多加小心"
-      }
-    ]
+    "luckLevel": "Cautious Luck",
+    "luckLevelZh": "中下籤",
+    "category": "career",
+    "englishFortune": "A collaboration at work needs clearer boundaries. Speak up before resentment builds.",
+    "chinesePoem": "合作之中需明界\n莫因忍讓積怨懟\n及早言明分寸事\n方能長久共事宜"
   },
   "78": {
     "number": 78,
     "luckLevel": "Average Middle Luck",
     "luckLevelZh": "中平籤",
-    "category": "funny",
-    "englishFortune": "A song will get stuck in your head for exactly three days.",
-    "chinesePoem": "魚躍龍門非偶然\n十年寒窗磨一劍\n今朝得展凌雲志\n莫負平生所學全",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "category": "general",
+    "englishFortune": "Something you've been putting off around the house or errands needs attention now.",
+    "chinesePoem": "家中瑣事待處理\n拖延已久宜動手\n莫因懶散再耽擱\n了卻此事心自輕"
   },
   "79": {
     "number": 79,
-    "luckLevel": "Cautious Luck",
-    "luckLevelZh": "中下籤",
-    "category": "advice",
-    "englishFortune": "The answer you're looking for is already inside the question.",
-    "chinesePoem": "江水東流不復回\n莫將舊事苦相隨\n且看前方新氣象\n自有貴人相扶持",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Excellent Luck",
+    "luckLevelZh": "極上籤",
+    "category": "general",
+    "englishFortune": "Your living situation or home life is entering a more stable, comfortable period.",
+    "chinesePoem": "居家生活漸安穩\n舒適時光即將至\n莫因過去多憂慮\n且享眼前這份安"
   },
   "80": {
     "number": 80,
-    "luckLevel": "Bad Luck",
-    "luckLevelZh": "下籤",
-    "category": "advice",
-    "englishFortune": "Not every battle needs you in it. Pick your fights.",
-    "chinesePoem": "雲開霧散見青天\n往事如煙莫再牽\n且把心頭愁緒放\n前程自有好姻緣",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "宜靜觀其變，不宜強求"
-      },
-      {
-        "question": "事業",
-        "answer": "暫緩行動，時機未到"
-      },
-      {
-        "question": "財運",
-        "answer": "謹慎理財，避免大筆支出"
-      },
-      {
-        "question": "健康",
-        "answer": "多加休息，勿過度勳勞"
-      },
-      {
-        "question": "出行",
-        "answer": "近期不宜遠行，多加小心"
-      }
-    ]
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
+    "category": "funny",
+    "englishFortune": "A funny mix-up will happen today, but it works out fine in the end.",
+    "chinesePoem": "今日烏龍鬧一場\n看似麻煩實無妨\n笑談之間皆化解\n事後回想亦尋常"
   },
   "81": {
     "number": 81,
-    "luckLevel": "Bad Luck",
-    "luckLevelZh": "下籤",
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
     "category": "funny",
-    "englishFortune": "You will trip on nothing in front of someone cute. Twice.",
-    "chinesePoem": "望穿秋水盼歸期\n莫道相思無盡時\n心若堅定情不變\n終有團圓笑語時",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "宜靜觀其變，不宜強求"
-      },
-      {
-        "question": "事業",
-        "answer": "暫緩行動，時機未到"
-      },
-      {
-        "question": "財運",
-        "answer": "謹慎理財，避免大筆支出"
-      },
-      {
-        "question": "健康",
-        "answer": "多加休息，勿過度勳勞"
-      },
-      {
-        "question": "出行",
-        "answer": "近期不宜遠行，多加小心"
-      }
-    ]
+    "englishFortune": "Expect a small surprise today, the kind that makes a good story later.",
+    "chinesePoem": "今日小有意外事\n過後方知是趣談\n莫因一時心慌亂\n事後回味笑開顏"
   },
   "82": {
     "number": 82,
-    "luckLevel": "Good Luck",
-    "luckLevelZh": "上籤",
-    "category": "advice",
-    "englishFortune": "This is a good time to start the thing you've been putting off.",
-    "chinesePoem": "心若向陽花自開\n何須煩惱掛心懷\n莫將煩憂留今日\n明朝依舊豔陽來",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Cautious Luck",
+    "luckLevelZh": "中下籤",
+    "category": "funny",
+    "englishFortune": "Today will feel a little chaotic, but harmless. Just go with it.",
+    "chinesePoem": "今日略顯忙亂象\n無傷大雅莫心慌\n順其自然隨遇安\n過後自覺是尋常"
   },
   "83": {
     "number": 83,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
-    "category": "career",
-    "englishFortune": "A mentor's advice will matter more than you expect this month.",
-    "chinesePoem": "寒盡不知春已到\n枝頭鵲喜報春曉\n舊愁未解新愁至\n且將心事付明朝",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "advice",
+    "englishFortune": "Your instincts are sharp right now. Trust them and act accordingly.",
+    "chinesePoem": "此時直覺甚敏銳\n大膽依從莫遲疑\n所感所想皆有理\n順勢而為必得宜"
   },
   "84": {
     "number": 84,
-    "luckLevel": "Average Luck",
-    "luckLevelZh": "中籤",
-    "category": "general",
-    "englishFortune": "This week rewards quiet effort over loud plans.",
-    "chinesePoem": "莫道桑榆晚景遲\n為霞尚滿天邊時\n人生何懼歲月老\n心境常青自有為",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "advice",
+    "englishFortune": "This is a good time to start something you've been putting off.",
+    "chinesePoem": "此時正宜起而行\n莫再拖延蹉跎日\n所想之事今日始\n他日回望慶今時"
   },
   "85": {
     "number": 85,
-    "luckLevel": "Bad Luck",
-    "luckLevelZh": "下籤",
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
     "category": "funny",
-    "englishFortune": "You will trip on nothing in front of someone cute. Twice.",
-    "chinesePoem": "山重水複疑無路\n柳暗花明又一村\n莫道此番多阻礙\n轉眼已是艷陽天",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "宜靜觀其變，不宜強求"
-      },
-      {
-        "question": "事業",
-        "answer": "暫緩行動，時機未到"
-      },
-      {
-        "question": "財運",
-        "answer": "謹慎理財，避免大筆支出"
-      },
-      {
-        "question": "健康",
-        "answer": "多加休息，勿過度勳勞"
-      },
-      {
-        "question": "出行",
-        "answer": "近期不宜遠行，多加小心"
-      }
-    ]
+    "englishFortune": "You'll catch yourself overreacting to something small today. It's fine, it happens.",
+    "chinesePoem": "今日小事易反應\n過度緊張實無需\n莫因此事苛責己\n人人皆有此時候"
   },
   "86": {
     "number": 86,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
-    "category": "career",
-    "englishFortune": "A mentor's advice will matter more than you expect this month.",
-    "chinesePoem": "莫道秋來蕭瑟晚\n且待冬去暖風還\n人生自有低潮處\n潮起潮落總循環",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "relationship",
+    "englishFortune": "A relationship in your life is growing stronger, even if it's quiet about it.",
+    "chinesePoem": "情緣默默漸深厚\n不聲不響卻紮根\n莫因平淡而懷疑\n深情自在細水中"
   },
   "87": {
     "number": 87,
     "luckLevel": "Average Middle Luck",
     "luckLevelZh": "中平籤",
-    "category": "advice",
-    "englishFortune": "Say the thing you've been avoiding saying.",
-    "chinesePoem": "春蠶到死絲方盡\n蠟炬成灰淚始乾\n莫因辛勞心生怨\n付出終有回報還",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "category": "general",
+    "englishFortune": "A social obligation is weighing on you. It's okay to say no to one thing this week.",
+    "chinesePoem": "近日應酬感負擔\n適時推卻也無妨\n莫因勉強耗心力\n量力而行保安康"
   },
   "88": {
     "number": 88,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
-    "category": "relationship",
-    "englishFortune": "A new connection this season will surprise you in a good way.",
-    "chinesePoem": "風平浪靜好行舟\n心安理得事無憂\n莫將閒事縈懷抱\n自有清風送到頭",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
+    "category": "career",
+    "englishFortune": "You're being asked to do more with less right now. It won't last forever.",
+    "chinesePoem": "此時任務多資源少\n莫因艱難而氣餒\n此況並非長久事\n熬過此關見清朗"
   },
   "89": {
     "number": 89,
-    "luckLevel": "Good Luck",
-    "luckLevelZh": "上籤",
-    "category": "advice",
-    "englishFortune": "Patience you've been practicing is about to pay off.",
-    "chinesePoem": "月缺終須有月圓\n人生起伏似江川\n莫愁眼前風浪急\n渡過險灘是坦然",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Excellent Luck",
+    "luckLevelZh": "極上籤",
+    "category": "general",
+    "englishFortune": "Family harmony is strong right now. This is a good time to bring everyone together.",
+    "chinesePoem": "家庭和睦正當時\n宜聚親人敘舊情\n團圓時刻多珍惜\n福氣滿堂樂融融"
   },
   "90": {
     "number": 90,
     "luckLevel": "Average Luck",
     "luckLevelZh": "中籤",
-    "category": "advice",
-    "englishFortune": "You don't need to decide today. Give it one more day.",
-    "chinesePoem": "雁過留聲人過名\n莫將此事掛心頭\n且行且珍惜眼前\n自有福報在後頭",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "category": "career",
+    "englishFortune": "A work decision is coming. Take time to think it through before answering.",
+    "chinesePoem": "職場抉擇將來臨\n莫急應答緩緩行\n靜心思量利與弊\n三思而後定分明"
   },
   "91": {
     "number": 91,
-    "luckLevel": "Cautious Luck",
-    "luckLevelZh": "中下籤",
-    "category": "career",
-    "englishFortune": "This opportunity looks bigger than it is. Ask more questions.",
-    "chinesePoem": "梅開二度傲霜雪\n堅忍不拔志更堅\n莫因一時風霜苦\n他日必定見花妍",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "general",
+    "englishFortune": "A trip planned now will go more smoothly than you expect.",
+    "chinesePoem": "此時出行正順利\n所行之路皆坦途\n莫因擔憂多顧慮\n一路平安樂悠悠"
   },
   "92": {
     "number": 92,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
-    "category": "general",
-    "englishFortune": "Be cautious of your diet. More vegetables is always a good idea.",
-    "chinesePoem": "風雨過後見彩虹\n莫愁眼前路難通\n心中若有堅定志\n終見雲開日正中",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Great Luck",
+    "luckLevelZh": "上上籤",
+    "category": "relationship",
+    "englishFortune": "Trust is being rebuilt with someone important. Keep showing up for them.",
+    "chinesePoem": "信任漸漸重建中\n持續付出莫停歇\n真心終能換真心\n情緣自此更牢固"
   },
   "93": {
     "number": 93,
-    "luckLevel": "Great Bad Luck",
-    "luckLevelZh": "下下籤",
-    "category": "advice",
-    "englishFortune": "Slow down. You are moving faster than your judgment right now.",
-    "chinesePoem": "燕子歸來尋舊壘\n物是人非事已休\n莫將往事重提起\n新枝發芽在枝頭",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "宜靜觀其變，不宜強求"
-      },
-      {
-        "question": "事業",
-        "answer": "暫緩行動，時機未到"
-      },
-      {
-        "question": "財運",
-        "answer": "謹慎理財，避免大筆支出"
-      },
-      {
-        "question": "健康",
-        "answer": "多加休息，勿過度勳勞"
-      },
-      {
-        "question": "出行",
-        "answer": "近期不宜遠行，多加小心"
-      }
-    ]
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
+    "category": "career",
+    "englishFortune": "A bold career move made now will pay off within the year.",
+    "chinesePoem": "此時勇敢邁一步\n年內必見好收穫\n莫因猶豫錯良機\n當斷則斷莫蹉跎"
   },
   "94": {
     "number": 94,
-    "luckLevel": "Excellent Luck",
-    "luckLevelZh": "極上籤",
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
     "category": "advice",
-    "englishFortune": "Your instincts are sharp right now. Trust them.",
-    "chinesePoem": "水滴石穿非一日\n繩鋸木斷貴堅持\n莫因眼前難見效\n終有所成慰己心",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "englishFortune": "You're overthinking something that has a simple answer. Simplify it.",
+    "chinesePoem": "此事本是簡單理\n莫因多想變複雜\n化繁為簡看本質\n答案原來很清楚"
   },
   "95": {
     "number": 95,
-    "luckLevel": "Bad Luck",
-    "luckLevelZh": "下籤",
+    "luckLevel": "Good Luck",
+    "luckLevelZh": "上籤",
     "category": "general",
-    "englishFortune": "Money spent impulsively this week will be regretted. Wait 24 hours before buying.",
-    "chinesePoem": "三思而後行必成\n莫因急躁誤前程\n若能沉心細思量\n事事順遂自安寧",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "宜靜觀其變，不宜強求"
-      },
-      {
-        "question": "事業",
-        "answer": "暫緩行動，時機未到"
-      },
-      {
-        "question": "財運",
-        "answer": "謹慎理財，避免大筆支出"
-      },
-      {
-        "question": "健康",
-        "answer": "多加休息，勿過度勳勞"
-      },
-      {
-        "question": "出行",
-        "answer": "近期不宜遠行，多加小心"
-      }
-    ]
+    "englishFortune": "Your health and energy are on the rise. Keep up whatever you've been doing.",
+    "chinesePoem": "身心狀態漸向好\n精神飽滿氣色佳\n持續保養莫鬆懈\n長久安康樂無涯"
   },
   "96": {
     "number": 96,
-    "luckLevel": "Average Middle Luck",
-    "luckLevelZh": "中平籤",
-    "category": "general",
-    "englishFortune": "A document, ID, or reservation needs double-checking this week.",
-    "chinesePoem": "落花有意隨流水\n流水無情戀落花\n莫將此情空自誤\n他日相逢是天涯",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Cautious Luck",
+    "luckLevelZh": "中下籤",
+    "category": "relationship",
+    "englishFortune": "Someone from your past may come back into your thoughts. Consider carefully before acting.",
+    "chinesePoem": "舊人舊事上心頭\n莫因一時亂了求\n三思而後再決定\n免得重蹈覆轍愁"
   },
   "97": {
     "number": 97,
     "luckLevel": "Great Luck",
     "luckLevelZh": "上上籤",
-    "category": "funny",
-    "englishFortune": "You will find money in an old jacket pocket. Small joys.",
-    "chinesePoem": "一帆風順過重洋\n莫問前程路短長\n心中有數行有度\n自然財喜兩相當",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "category": "advice",
+    "englishFortune": "The patience you've practiced is about to be rewarded.",
+    "chinesePoem": "耐心修煉終有報\n所待之事將成真\n莫因等待生疑慮\n福報自來慰苦心"
   },
   "98": {
     "number": 98,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
+    "luckLevel": "Average Middle Luck",
+    "luckLevelZh": "中平籤",
     "category": "funny",
-    "englishFortune": "Your order will come out perfect today. Treat yourself.",
-    "chinesePoem": "心誠所至金石開\n事在人為莫等待\n若問前程何處是\n腳踏實地自然來",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "englishFortune": "Plans may shift last minute today. Roll with it, the new version works out fine.",
+    "chinesePoem": "今日計畫或有變\n莫因此事心生煩\n隨機應變自有法\n變中另有一番天"
   },
   "99": {
     "number": 99,
-    "luckLevel": "Average Luck",
-    "luckLevelZh": "中籤",
-    "category": "funny",
-    "englishFortune": "You will say 'you too' when the waiter says 'enjoy your meal.'",
-    "chinesePoem": "一朝春盡紅顏老\n花落人亡兩不知\n莫將此事縈心上\n且看來日又逢時",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "順其自然，緣分未到不強求"
-      },
-      {
-        "question": "事業",
-        "answer": "腳踏實地，穩中求進"
-      },
-      {
-        "question": "財運",
-        "answer": "平穩，宜守不宜攻"
-      },
-      {
-        "question": "健康",
-        "answer": "注意飲食，作息規律為宜"
-      },
-      {
-        "question": "出行",
-        "answer": "可行，惟需多加準備"
-      }
-    ]
+    "luckLevel": "Great Luck",
+    "luckLevelZh": "上上籤",
+    "category": "general",
+    "englishFortune": "Good news may come from somewhere far away. Stay open to it.",
+    "chinesePoem": "遠方佳音將傳來\n意外之喜莫錯過\n敞開心懷迎消息\n福自遠方降臨時"
   },
   "100": {
     "number": 100,
-    "luckLevel": "Great Luck",
-    "luckLevelZh": "上上籤",
-    "category": "funny",
-    "englishFortune": "Good wifi, good weather, good mood. Take the win.",
-    "chinesePoem": "竹林深處有人家\n莫道此地無繁華\n靜待時機緣自到\n他日枝頭綻奇花",
-    "qaPairs": [
-      {
-        "question": "愛情",
-        "answer": "有情人終成眷屬，把握當下"
-      },
-      {
-        "question": "事業",
-        "answer": "時機已到，宜大膽爭取"
-      },
-      {
-        "question": "財運",
-        "answer": "財源廣進，宜適度投資"
-      },
-      {
-        "question": "健康",
-        "answer": "身體康泰，精神飽滿"
-      },
-      {
-        "question": "出行",
-        "answer": "諸事順利，宜把握良機出行"
-      }
-    ]
+    "luckLevel": "Average Luck",
+    "luckLevelZh": "中籤",
+    "category": "relationship",
+    "englishFortune": "Your feelings are ahead of the situation right now. Give it more time before deciding.",
+    "chinesePoem": "情深已在事之先\n莫急下定論斷言\n且待時機成熟後\n自然明朗見真言"
   }
 }
